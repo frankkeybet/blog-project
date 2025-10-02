@@ -4,7 +4,7 @@ import TheWelcome from './components/TheWelcome.vue'
 </script>
 
 <template>
- <button class="bg-blue-500 text-white hover:bg-blue-600 rounded py-2 px-4">Create</button>
+ <button class="bg-blue-500 text-white hover:bg-blue-700 rounded py-2 px-4">Create</button>
  
 </template>
 
